@@ -1,17 +1,19 @@
 <h1 align="center">I Farhat</h1>
-<h3 align="center">Conquering coding challenges, crafting elegant solutions, fine-tuning code for maximum efficiency and unwaveringly prioritizing user-friendliness and client-driven results. Founder of Farhat e Services & Assistance</h3>
+<h3 align="center">Conquering coding challenges, crafting elegant solutions, fine-tuning code for maximum efficiency and unwaveringly prioritizing user-friendliness and client-driven results. Founder: <a href=https://farhateservices.github.io/fesa/>Farhat e Services & Assistance</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="imfarhat" /> </p>
 
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imfarhat" alt="imfarhat" /></a> </p>-->
+
 - Currently working on **Personal Potfolio Project**
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- Learning **Advanced JavaScript**
 
-- All projects are available at [https://farhateservices.github.io/fesa/contact.html#Contacts](https://farhateservices.github.io/fesa/contact.html#Contacts)
+- All Projects available [here](https://farhateservices.github.io/fesa/contact.html#Contacts)
 
 - Reach me at **ifarhat.dev@gmail.com**
 
-- Request CV [https://farhateservices.github.io/fesa/contact.html#SendMessage](https://farhateservices.github.io/fesa/contact.html#SendMessage)
+- Request resume ( or CV ) [here](https://farhateservices.github.io/fesa/contact.html#SendMessage)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
