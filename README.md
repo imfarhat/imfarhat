@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="imfarhat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imfarhat" alt="imfarhat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 Currently working on **Personal Potfolio Project**
+- Currently working on **Personal Potfolio Project**
 
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://farhateservices.github.io/fesa/contact.html#Contacts](https://farhateservices.github.io/fesa/contact.html#Contacts)
+- All projects are available at [https://farhateservices.github.io/fesa/contact.html#Contacts](https://farhateservices.github.io/fesa/contact.html#Contacts)
 
-- 📫 How to reach me **ifarhat.dev@gmail.com**
+- Reach me at **ifarhat.dev@gmail.com**
 
-- 📄 Request CV [https://farhateservices.github.io/fesa/contact.html#SendMessage](https://farhateservices.github.io/fesa/contact.html#SendMessage)
+- Request CV [https://farhateservices.github.io/fesa/contact.html#SendMessage](https://farhateservices.github.io/fesa/contact.html#SendMessage)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imfarhat&show_icons=true&locale=en" alt="imfarhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imfarhat&" alt="imfarhat" /></p>
-
