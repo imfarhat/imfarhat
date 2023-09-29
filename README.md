@@ -9,7 +9,7 @@
 
 - Learning **Advanced JavaScript**
 
-- All Projects available [here](https://farhateservices.github.io/fesa/contact.html#Contacts)
+- All Projects available [here](https://farhateservices.github.io/fesa/projects.html)
 
 - Reach me at **ifarhat.dev@gmail.com**
 
